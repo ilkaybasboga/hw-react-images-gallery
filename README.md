@@ -1,4 +1,4 @@
-[CLİCK] (https://hw-react-lesson-reminder.netlify.app/)
+[CLİCK] (https://hw-react-images-gallery.netlify.app/)
 
 # HW-React-İmages-Gallery
 
